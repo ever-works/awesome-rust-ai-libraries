@@ -1,11 +1,5 @@
-## Overview
+# NeuroFlow
 
-Awesome deep learning crate.
+Deep learning crate for Rust providing neural network building blocks, training algorithms, and model capabilities for deep learning applications in Rust.
 
-## License
-
-MIT
-
-## Repository Stats
-
-- Stars: 120
+[https://github.com/MikhailKravets/NeuroFlow](https://github.com/MikhailKravets/NeuroFlow)

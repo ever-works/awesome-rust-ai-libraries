@@ -1,9 +1,5 @@
-## Overview
+# sonic
 
-Sonic is a search backend written in Rust.
+Fast, lightweight, and schema-less search backend written in Rust. Serves as an alternative to Elasticsearch with minimal memory footprint and high-speed full-text search capabilities.
 
-## Features
-
-- Fast search
-- Schema-less
-- MPL-2.0 license
+[https://github.com/valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)
