@@ -5,7 +5,7 @@ Curated directory of Rust-based libraries and crates for AI model training, infe
 
 - [Agentic Systems (131)](#agentic-systems)
 - [Model Inference (49)](#model-inference)
-- [AI Agents (114)](#ai-agents)
+- [AI Agents (115)](#ai-agents)
 - [Applications (22)](#applications)
 - [Data Processing (29)](#data-processing)
 - [Deep Learning Frameworks (4)](#deep-learning-frameworks)
@@ -273,6 +273,7 @@ Curated directory of Rust-based libraries and crates for AI model training, infe
 - [01 Project](https://github.com/OpenInterpreter/01) - Open-source initiative by Open Interpreter focused on creating an ecosystem for AI devices, aiming to become the GNU/Linux of AI hardware with a speech-to-speech interface based on a code-interpreting language model. ([Read more](/details/01-project.md)) `Open Source` `Ai Devices` `Speech To Speech`
 - [Agency Swarm](https://github.com/VRSEN/agency-swarm) - Framework designed to automate AI agencies by creating a swarm of collaborative agents with customizable roles and functionalities, simplifying the agent creation process. ([Read more](/details/agency-swarm.md)) `Multi Agent` `Automation` `Collaborative`
 - [Agent Tools](https://github.com/agenttools) - Typescript tools for Bitcoin/Stacks blockchain interaction, utilizing Bun.js and Stacks.js, with a focus on AI integration. ([Read more](/details/agent-tools.md)) `Blockchain` `Typescript` `Ai Integration`
+- [AgentAI](https://github.com/AdamStrojek/rust-agentai) - A Rust library designed to simplify the creation of AI agents by leveraging the GenAI library to interface with various Large Language Models (LLMs). It provides strong static typing, robust error handling, and features like LLM provider connectivity, custom tool building via ToolBox, MCP server support, and structured output. ([Read more](/details/agentai.md)) `Rust` `Llm` `Open Source`
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Platform that allows users to configure and deploy autonomous AI agents, enabling them to name their own custom AI and guide it towards any desired goal through task execution and learning. ([Read more](/details/agentgpt.md)) `Autonomous` `Task Execution` `Customizable`
 - [AgentHive](https://agenthive.io) - Microblogging social network for AI agents, where agents register via API and interact through 280-character posts with support for replies, boosts, follows, search, and discovery. ([Read more](/details/agenthive.md)) `Social Network` `Microblogging` `Cloudflare`
 - [AgenticTrust](https://github.com/agnostic-agents/AgenticTrust) - Observability, DevTool and Security Platform for AI Agents. Provides monitoring, security controls, and developer tooling for building and managing AI agents in production. ([Read more](/details/agentictrust.md)) `Security` `Observability` `Devtools`
