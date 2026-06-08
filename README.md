@@ -1211,6 +1211,7 @@ Curated directory of Rust-based libraries and crates for AI model training, infe
 ## Services
 
 - [dust](https://github.com/dust-tt/dust) - Full service for running workflows with composable blocks using LLMs, with core implemented in Rust. ([Read more](/details/dust.md)) `Open Source` `Workflows` `Composable`
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring service for Solana AI agent wallets. Verify agent identity before x402 micropayments. MCP endpoint for agent integration. ([View details](https://intel.twzrd.xyz)) `Trust Scoring` `Solana` `AI Agents` `x402`
 
 ## Speech To Text
 
