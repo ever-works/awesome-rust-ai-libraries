@@ -1275,6 +1275,10 @@ Curated directory of Rust-based libraries and crates for AI model training, infe
 - [Vector Vein](https://vectorvein.ai) - No-code AI workflow platform with drag-and-drop workflow nodes that can be integrated with AI agents, enabling visual construction of complex AI automation pipelines. ([Read more](/details/vector-vein.md)) `No Code` `Drag And Drop` `AI Workflows`
 
 
+## ⭐ Star History
+
+[![Star History Chart](https://stats-github.ever.works/svg?repos=ever-works/awesome-rust-ai-libraries&type=Date)](https://stats-github.ever.works/#ever-works/awesome-rust-ai-libraries&Date)
+
 ## ™️ Legal
 
 All product names, logos, and brands are the property of their respective owners. All company, product, and service names used in this repository, related repositories, and associated websites are for identification purposes only. The use of these names, logos, and brands does not imply endorsement, affiliation, or sponsorship.
